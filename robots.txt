@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://realarttu.moisio.click/sitemap.xml
